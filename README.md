@@ -1,5 +1,9 @@
-Full code and example here: https://www.js-craft.io/blog/using-react-context-nextjs-13
+Please note that this project assumes that the required libraries are already installed on the machine where it will be tested
 
+Don't forget to run before starting the server:
+```bash
+npm i
+```
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
