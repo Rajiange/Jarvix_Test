@@ -8,8 +8,8 @@ export default function Second() {
   const { theme, setTheme } = useTheme();
 
   return (
-    <div>
-    <h1 className="text-5xl text-center text-re font-bold">Second page</h1>
+  <div>
+    <h1 className="text-5xl text-center text-re font-bold">Third page</h1>
     <div className="w-full h-screen flex items-center justify-center">
       <section className="">
 
